@@ -7,8 +7,7 @@ using namespace std;
 int main ()
 {
     string option;
-    string
-ab,lk="",I="abcdefghijklmnopqrstuvwxyz";
+    string ab,lk="",I="abcdefghijklmnopqrstuvwxyz";
     string decryption1;
     int mn,I,j,k,l;
     cout << "Do you want to encrypt or decrypt? \n";
