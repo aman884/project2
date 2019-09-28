@@ -33,7 +33,7 @@ int main ()
                 
                 else
                 {
-                    lk+=I[j+sf];
+                    lk+=I[j+mn];
                 }
             }
   
@@ -65,7 +65,7 @@ lk="";
                 }
                 else
                 {
-                    lk+=I[l-sf];
+                    lk+=I[l-mn];
                 }
                                
                                  
